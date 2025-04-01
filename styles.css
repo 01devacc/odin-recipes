@@ -1,0 +1,26 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+body {
+    background-color: lightyellow;
+}
+
+h1 {
+    font-size: 50px;
+    color:rgb(19, 59, 46)
+}
+
+h2 {
+    color: rgb(57, 129, 105);
+}
+
+h3 {
+    color:  lightseagreen;
+}
+
+img {
+    width: 380px;
+    height: auto;
+}
